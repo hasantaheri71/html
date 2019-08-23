@@ -2,10 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6c13948f-986f-4b70-8898-eaa07fb15d06" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/2-Defines the document type.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3-a.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/4-abbr.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/instruction.html" beforeDir="false" afterPath="$PROJECT_DIR$/1-instruction.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/10-b.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/11-base.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/12-bdi.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/6-area.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/7.aside.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/8-article.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9-audio.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -30,15 +34,6 @@
     <option name="ROOT_SYNC" value="DONT_SYNC" />
   </component>
   <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP 7.2" />
-  <component name="ProjectConfigurationFiles">
-    <option name="files">
-      <list>
-        <option value="$PROJECT_DIR$/.idea/html.iml" />
-        <option value="$PROJECT_DIR$/.idea/vcs.xml" />
-        <option value="$PROJECT_DIR$/.idea/modules.xml" />
-      </list>
-    </option>
-  </component>
   <component name="ProjectId" id="1PkVBCSYWkkfoOOUQLagVxxRQHB" />
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -48,13 +43,15 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="nodejs_interpreter_path" value="E:/laragon/bin/nodejs/node-v12/node" />
+    <property name="nodejs_interpreter_path" value="$PROJECT_DIR$/../../bin/nodejs/node-v12/node" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\laragon\www\html" />
+      <recent name="D:\Learning\New folder\html" />
       <recent name="D:\Learning\html\html" />
     </key>
   </component>
@@ -81,6 +78,8 @@
       <option name="presentableId" value="Default" />
       <updated>1566417943170</updated>
       <workItem from="1566417945245" duration="2392000" />
+      <workItem from="1566554316578" duration="4962000" />
+      <workItem from="1566559523073" duration="1138000" />
     </task>
     <task id="LOCAL-00001" summary="test">
       <created>1566418812656</created>
@@ -96,7 +95,21 @@
       <option name="project" value="LOCAL" />
       <updated>1566419441972</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="testfs f fs">
+      <created>1566554363875</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1566554363876</updated>
+    </task>
+    <task id="LOCAL-00004" summary="testfs f fs">
+      <created>1566554370934</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1566554370934</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -107,7 +120,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
